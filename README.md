@@ -6,10 +6,3 @@ My cybersecurity learning journey through TryHackMe, CTFs, security labs, projec
 
 - [Operating Systems: Introduction](./TryHackMe/Operating-Systems-Introduction/)
 
-## CTFs
-
-Coming soon...
-
-## Projects
-
-Coming soon...
