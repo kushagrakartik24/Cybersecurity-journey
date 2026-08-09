@@ -6,3 +6,7 @@ My cybersecurity learning journey through TryHackMe, CTFs, security labs, projec
 
 - [Operating Systems: Introduction](./TryHackMe/Operating-Systems-Introduction/)
 
+## TryHackMe
+
+- [Operating Systems: Introduction](./TryHackMe/Operating-Systems-Introduction/)
+- [Linux CLI Basics](./TryHackMe/Linux-CLI-Basics/)
