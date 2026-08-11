@@ -38,6 +38,8 @@ Finally, I found all three ingredients and completed the room.
 
 Room completed on TryHackMe.
 
+![Pickle Rick Completion](pickle-rick-completed.png)
+
 ## Room
 
 [TryHackMe - Pickle Rick](https://tryhackme.com/room/picklerick)
