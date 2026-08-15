@@ -71,4 +71,4 @@
 
 Completed all 8 tasks of the Reversing ELF room on TryHackMe.
 
-![TryHackMe Reversing ELF - Room Completed](./screenshots/room-completed.png)
+![TryHackMe Reversing ELF - Room Completed](./room-completed.png)
