@@ -10,3 +10,4 @@ My cybersecurity learning journey through TryHackMe, CTFs, security labs, projec
 - [Linux CLI Basics](./TryHackMe/Linux-CLI-Basics/)
 - [Operating System Security](./TryHackMe/Operating-System-Security/)
 - [API Pentesting](./TryHackMe/API-Pentesting/)
+- [Reversing ELF](./TryHackMe/Reversing-ELF/)
